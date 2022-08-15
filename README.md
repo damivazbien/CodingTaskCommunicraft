@@ -1,7 +1,7 @@
 
 # Coding task Communicraft
 
-An small coding challenge to get a better idea of your coding and problem-solving style
+An small coding challenge to get a better idea of my coding and problem-solving style
 
 
 
@@ -23,7 +23,7 @@ Examples of unbalanced input:
 ([)]     (outer brackets closed before inner brackets have closed)
 ## Appendix
 
-Link and course that suppor the resolution of this coding task
+Links that helped me in the resolution of this coding task
 
 https://www.codeproject.com/Tips/1175562/Check-for-Balanced-Parenthesis-in-a-String
 https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console-part-2
