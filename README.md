@@ -21,11 +21,14 @@ Examples of unbalanced input:
 (()      (too many opening brackets)
 ())      (too many closing brackets)
 ([)]     (outer brackets closed before inner brackets have closed)
+
 ## Appendix
 
 Links that helped me in the resolution of this coding task
 
 https://www.codeproject.com/Tips/1175562/Check-for-Balanced-Parenthesis-in-a-String
+
 https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console-part-2
+
 https://www.udemy.com/course/unit-testing-csharp/
 
