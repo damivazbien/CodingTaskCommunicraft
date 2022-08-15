@@ -41,7 +41,7 @@ namespace CodingTaskTest
         }
 
         [Test]
-        public void WhenNotBracketsInString_ReturnTrue()
+        public void WhenBracketsInString_ReturnTrue()
         {
             string myInput = "MyInput{DoesHaveString";
 
