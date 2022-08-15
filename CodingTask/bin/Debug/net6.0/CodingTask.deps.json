@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CodingTask/1.0.0": {
+        "dependencies": {
+          "CodingTaskLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CodingTask.dll": {}
+        }
+      },
+      "CodingTaskLibrary/1.0.0": {
+        "runtime": {
+          "CodingTaskLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodingTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodingTaskLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

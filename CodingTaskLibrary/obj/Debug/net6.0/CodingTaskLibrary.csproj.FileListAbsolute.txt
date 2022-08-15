@@ -1,0 +1,12 @@
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\bin\Debug\net6.0\CodingTaskLibrary.deps.json
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\bin\Debug\net6.0\CodingTaskLibrary.dll
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\bin\Debug\net6.0\CodingTaskLibrary.pdb
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\obj\Debug\net6.0\CodingTaskLibrary.csproj.AssemblyReference.cache
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\obj\Debug\net6.0\CodingTaskLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\obj\Debug\net6.0\CodingTaskLibrary.AssemblyInfoInputs.cache
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\obj\Debug\net6.0\CodingTaskLibrary.AssemblyInfo.cs
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\obj\Debug\net6.0\CodingTaskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\obj\Debug\net6.0\CodingTaskLibrary.dll
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\obj\Debug\net6.0\refint\CodingTaskLibrary.dll
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\obj\Debug\net6.0\CodingTaskLibrary.pdb
+C:\Users\milds\source\repos\CodingTask\CodingTaskLibrary\obj\Debug\net6.0\ref\CodingTaskLibrary.dll
